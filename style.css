@@ -4,4 +4,13 @@ background-color: rgb(53, 47, 47);
 li{
     text-align: center;
     font-size: 50px;
-}
+} 
+.botao {
+    background-color: rgb(32, 114, 186);
+    color: rgb(200, 212, 223);
+    border: nome;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: 0.3s ease;
+} 
+
