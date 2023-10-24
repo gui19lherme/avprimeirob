@@ -11,6 +11,8 @@ li{
     border: nome;
     padding: 10px 20px;
     cursor: pointer;
-    transition: 0.3s ease;
+    transition: 0.3s ease;  
 } 
-
+.botao:hover {
+    background-color: rgb(28, 28, 125);
+}
