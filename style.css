@@ -16,3 +16,6 @@ li{
 .botao:hover {
     background-color: rgb(28, 28, 125);
 }
+p {
+    color: rgb(88, 149, 202);
+}
