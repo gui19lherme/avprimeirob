@@ -10,7 +10,7 @@ li{
     color: rgb(200, 212, 223);
     border: nome;
     padding: 10px 20px;
-    cursor: pointer;
+    cursor:right;
     transition: 0.3s ease;  
 } 
 .botao:hover {
